@@ -1,0 +1,9 @@
+https://krazytech.com/programs/java-program-to-display-arraylist-elements-in-jsp-using-iterator
+
+https://coderanch.com/t/289624/java/Accessing-ArrayList-objects-JSP
+
+https://stackoverflow.com/questions/16397207/iterate-arraylist-in-jsp
+
+https://www.quora.com/How-can-I-iterate-the-arrayList-String-in-JSP
+
+https://stackoverflow.com/questions/20789207/iterating-through-a-list-object-in-jsp
